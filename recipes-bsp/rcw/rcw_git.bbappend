@@ -1,1 +1,3 @@
 SRCREV = "64abe70cf0abab053c37db460c12e367e6adf7a4"
+SDK_MACHINE ?= "${MACHINE}"
+M="${SDK_MACHINE}"
