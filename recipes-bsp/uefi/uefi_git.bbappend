@@ -1,4 +1,4 @@
-SRCREV = "3f240a6453ed258aee4b45a9e280ee0d5d6b84d2"
+SRCREV = "55789d536850e00c6f2284fb28eaf21712cd276b"
 SDK_MACHINE ?= "${MACHINE}"
 
 do_install () {
