@@ -19,7 +19,7 @@ REQUIRED_MACHINE_FEATURES = "optee"
 
 inherit features_check
 
-OPTEEMACHINE = "ls-${MACHINE}"
+OPTEEMACHINE = "ls-${SDK_MACHINE}"
 OPTEEMACHINE:ls1088ardb-pb   = "ls-ls1088ardb"
 OPTEEMACHINE:ls1046afrwy     = "ls-ls1046ardb"
 OPTEEMACHINE:lx2162aqds      = "ls-lx2160aqds"
