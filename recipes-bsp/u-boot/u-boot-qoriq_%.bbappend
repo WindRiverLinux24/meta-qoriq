@@ -7,5 +7,6 @@ SRC_URI:append:qoriq-ppc = "\
 
 SRC_URI:append = "\
     file://CVE-2024-57254.patch \
+    file://CVE-2024-57255.patch \
 "
 
